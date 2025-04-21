@@ -1,0 +1,3 @@
+npm install axios --save
+npx expo install expo-constants
+npx expo install expo-linear-gradient
