@@ -84,10 +84,6 @@ const response = await axios.get(
 );
 ```
 
-## 📷 Screenshots
-
-*Adicione aqui prints do app quando quiser!*
-
 ## 📄 Licença
 
 Esse projeto está sob a licença **MIT**.  
