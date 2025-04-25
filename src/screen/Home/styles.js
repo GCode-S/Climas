@@ -99,11 +99,11 @@ export default StyleSheet.create({
 
   footer: {
     flexDirection: "row",
+    flex: 1,
+    alignSelf: "flex-end",
     width: "100%",
     justifyContent: "space-between",
     marginTop: 15,
-    position: "relative",
-    alignSelf: "center",
     bottom: 15,
   },
 
